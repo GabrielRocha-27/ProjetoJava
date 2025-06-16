@@ -64,11 +64,16 @@ Senha: fatec
 ---
 
 ## 📂 Organização do Projeto
+
 📁 src/
 ├── 📦 view/ # Telas da interface gráfica
+
 ├── 📦 model/ # Classes de domínio (Aluno, Curso)
+
 ├── 📦 dao/ # Acesso a dados (DAO)
+
 ├── 📦 factory/ # Conexão com o banco de dados
+
 └── 📜 Main.java # Classe principal
 📄 cursos_db_backup.sql # Script para criar o banco
 📄 Manual em .pdf
