@@ -76,9 +76,9 @@ Senha: fatec
 
 └── 📜 Main.java # Classe principal
 
-📄 README.md # Este manual
-
 📄 Manual em .pdf
+
+📄 README.md # Este manual
 
 📄 cursos_db_backup.sql # Script para criar o banco
 
