@@ -66,7 +66,8 @@ Senha: fatec
 ## 📂 Organização do Projeto
 
 📁 src/
-├── 📦 view/ # Telas da interface gráfica
+
+├── 📦 gui/ # Telas da interface gráfica
 
 ├── 📦 model/ # Classes de domínio (Aluno, Curso)
 
