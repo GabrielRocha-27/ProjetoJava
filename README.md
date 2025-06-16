@@ -75,8 +75,11 @@ Senha: fatec
 ├── 📦 factory/ # Conexão com o banco de dados
 
 └── 📜 Main.java # Classe principal
+
 📄 cursos_db_backup.sql # Script para criar o banco
+
 📄 Manual em .pdf
+
 📄 README.md # Este manual
 
 ---
