@@ -69,7 +69,7 @@ Senha: fatec
 
 ├── 📦 gui/ # Telas da interface gráfica
 
-├── 📦 model/ # Classes de domínio (Aluno, Curso)
+├── 📦 modelo/ # Classes de domínio (Aluno, Curso)
 
 ├── 📦 dao/ # Acesso a dados (DAO)
 
